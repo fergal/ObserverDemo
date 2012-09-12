@@ -1,0 +1,5 @@
+C:\Users\Fergal\Documents\Visual Studio 2008\Projects\ObserverPattern\ObserverPattern\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fergal\Documents\Visual Studio 2008\Projects\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\Fergal\Documents\Visual Studio 2008\Projects\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\Fergal\Documents\Visual Studio 2008\Projects\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\Fergal\Documents\Visual Studio 2008\Projects\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
